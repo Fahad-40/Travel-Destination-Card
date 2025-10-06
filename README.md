@@ -17,4 +17,4 @@ It features smooth hover animations, elegant typography, and a professional layo
 
 ## 📸 Preview
 **Explore. Dream. Discover.**  
-Paris, Bali, or New York — where would you love to go first? 🌴✈️
+Paris, Bali, or New York , where would you love to go first? 🌴✈️
